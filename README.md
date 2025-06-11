@@ -19,13 +19,7 @@ I’m Yukesh Choudhary, a dedicated Full Stack Developer with a strong passion f
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/uknation/uknation/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/uknation/uknation/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/uknation/uknation/output/pacman-contribution-graph.svg">
-</picture>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=uknation&limit=5&theme=dark&combine_all_yearly_contributions=true)
